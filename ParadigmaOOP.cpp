@@ -14,3 +14,7 @@ public :
         cout << "NILAI : " << nilai << endl;
     }
 }; //batas class
+
+int main(){
+    
+}
