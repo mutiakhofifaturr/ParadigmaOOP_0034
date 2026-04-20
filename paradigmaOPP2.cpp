@@ -18,5 +18,9 @@ class Barang{
 };//batas class
 
 int main(){
-    
+    Barang elektronik;
+    elektronik.nama = "HP";
+    elektronik.jumlah = 2;
+    elektronik.kategori = "elektronik";
+    elektronik.tanggalproduksi = "2025-09-18";
 }
