@@ -29,4 +29,7 @@ int main(){
     nonElektronik.jumlah = 4;
     nonElektronik.kategori = "nonElektronik";
     nonElektronik.tanggalproduksi ="2025-10-30";
+
+    elektronik.printData();
+    nonElektronik.printData();
 }
