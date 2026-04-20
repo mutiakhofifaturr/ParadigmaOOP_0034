@@ -16,5 +16,9 @@ public :
 }; //batas class
 
 int main(){
-    
+    Mahasiswa mhs;
+    mhs.nim = 2025;
+    mhs.nama = "Mutia";
+    mhs. nilai = 90.5;
+
 }
