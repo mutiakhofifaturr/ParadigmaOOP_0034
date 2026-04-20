@@ -15,4 +15,4 @@ class Barang{
         cout << "KATEGORI : " << kategori << endl;
         cout << "TANGGALPRODUKSI : " << tanggalproduksi << endl;
     }
-}
+};//batas class
